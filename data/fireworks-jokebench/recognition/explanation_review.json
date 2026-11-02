@@ -1,0 +1,72 @@
+[
+  {
+    "id": "J01",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J02",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J03",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J04",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J05",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J06",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J07",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J08",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J09",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism."
+  },
+  {
+    "id": "J10",
+    "mechanism_explanation_score": 2,
+    "max_score": 2,
+    "reviewer": "Codex assistant, not independent human",
+    "note": "Identifies the intended core humor mechanism. J10 also overstates that a dog hearing/acting on advice is impossible literally; interpret as figurative framing, not a factual generalization."
+  }
+]

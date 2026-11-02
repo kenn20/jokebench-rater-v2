@@ -1,0 +1,5 @@
+dataset,session_id,funny,not_funny,total,funny_percent
+web-one-liners-20-v1,06b26c25-fc73-4f4f-9fd2-8b584262ff4f,16,4,20,80
+glm53-personalized-20-v1,411e7992-adc6-40bf-b596-0fa3696e5843,15,5,20,75
+glm53-plain-20-v2,7e6ea3d6-f493-427f-aa66-4969b0793a15,10,10,20,50
+gptoss120b-plain-20-v1,35d6c115-81a5-44e5-a5d6-3e30a098b330,9,11,20,45
