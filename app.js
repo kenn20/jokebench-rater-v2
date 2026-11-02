@@ -1,5 +1,5 @@
-const DATASET_PATH = "jokebench-openrouter-generated-60-v2.json";
-const STORAGE_KEY = "jokebench-rater-feedback-generated-60-v2";
+const DATASET_PATH = "jokebench-openrouter-generated-60-v3-diversity.json";
+const STORAGE_KEY = "jokebench-rater-feedback-generated-60-v3-diversity";
 
 const state = { dataset: null, ratings: JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}") };
 const elements = {
