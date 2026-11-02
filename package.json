@@ -1,0 +1,10 @@
+{
+  "name": "jokebench-rater-v2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:v2": "node generate-v2.mjs",
+    "serve": "python3 -m http.server 4173",
+    "test": "bash tests/validate-dataset.sh && node --check app.js && node --check generate-v2.mjs"
+  }
+}
