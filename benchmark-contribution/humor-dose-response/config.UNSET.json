@@ -1,0 +1,11 @@
+{
+ "checkpoint": null,
+ "decoding": null,
+ "humor_rubric": "binary_humor_v1",
+ "conditions": [
+  {"id":"baseline","instruction":"Use neutral, factual commentary.","target_funny_rate":null},
+  {"id":"low","instruction":"Add restrained, light wit to commentary without changing factual answers.","target_funny_rate":0.5},
+  {"id":"medium","instruction":"Use clearly playful commentary while preserving factual answers and usefulness.","target_funny_rate":0.7},
+  {"id":"high","instruction":"Use stronger wit in commentary while preserving factual answers, usefulness, and safety. Never mock patients or vulnerable people.","target_funny_rate":null}
+ ]
+}
