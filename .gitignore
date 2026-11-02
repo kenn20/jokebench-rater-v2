@@ -1,0 +1,9 @@
+.DS_Store
+.codegraph
+.omo/
+.playwright-mcp/
+*.swp
+jokebench-*.png
+jokebench-openrouter-80-v1.json
+jokebench-openrouter-80-v2.json
+node_modules/
