@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Rate JokeBench examples and export your feedback." />
+    <title>JokeBench Rater</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%237170ff'/%3E%3Cpath d='M4 6.5h8M4 9.5h5' stroke='%23f7f8f8' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#rater">Skip to joke</a>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="JokeBench Rater home">JokeBench<span>Rater</span></a>
+      <div class="dataset-label" id="datasetLabel">Loading dataset</div>
+    </header>
+    <main class="shell" id="rater">
+      <section class="intro" aria-labelledby="pageTitle">
+        <p class="eyebrow">Human signal collection</p>
+        <h1 id="pageTitle">Does this joke land?</h1>
+        <p>Rate each example by instinct. Your decisions stay in this browser until you export them.</p>
+      </section>
+      <section class="workspace" aria-label="Joke evaluation workspace">
+        <aside class="progress-panel">
+          <p class="panel-label">Your progress</p>
+          <strong id="progressText">0 of 80 rated</strong>
+          <div class="progress-track" aria-hidden="true"><div class="progress-fill" id="progressFill"></div></div>
+          <p class="quiet" id="remainingText">80 decisions remaining</p>
+          <div class="divider"></div>
+          <p class="panel-label">Export feedback</p>
+          <p class="quiet">Download only after at least one rating.</p>
+          <div class="export-group">
+            <button type="button" class="export-button" id="exportJson" disabled>Export JSON</button>
+            <button type="button" class="export-button" id="exportCsv" disabled>Export CSV</button>
+          </div>
+          <button type="button" class="reset-button" id="resetRatings">Reset local ratings</button>
+        </aside>
+        <article class="rating-card" aria-live="polite">
+          <div class="card-head">
+            <div>
+              <p class="panel-label" id="itemType">Example</p>
+              <p class="source" id="sourceInfo">Preparing example</p>
+            </div>
+            <span class="item-number" id="itemNumber">—</span>
+          </div>
+          <blockquote id="jokeText">Loading jokes…</blockquote>
+          <div class="action-area">
+            <p class="prompt">Your verdict</p>
+            <div class="rating-actions" role="group" aria-label="Rate this joke">
+              <button type="button" class="rating-button funny" id="funnyButton">Funny <span>F</span></button>
+              <button type="button" class="rating-button not-funny" id="notFunnyButton">Not funny <span>N</span></button>
+            </div>
+            <p class="keyboard-hint">Keyboard: press F for funny or N for not funny.</p>
+          </div>
+        </article>
+      </section>
+      <section class="complete-card" id="completeCard" hidden aria-live="polite">
+        <p class="eyebrow">Collection complete</p>
+        <h2>All 80 jokes have a verdict.</h2>
+        <p>Export your completed feedback as JSON or CSV from the panel above.</p>
+      </section>
+    </main>
+    <div class="sr-only" id="announcer" aria-live="polite"></div>
+    <script src="app.js"></script>
+  </body>
+</html>
