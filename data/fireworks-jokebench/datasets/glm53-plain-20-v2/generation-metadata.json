@@ -1,0 +1,17 @@
+{
+  "usage": {
+    "prompt_tokens": 46,
+    "completion_tokens": 417,
+    "total_tokens": 463,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "reasoning_tokens": 10,
+      "rejected_prediction_tokens": null
+    }
+  },
+  "finish_reason": "stop",
+  "outputs": "Unedited final model outputs; no reasoning traces included."
+}

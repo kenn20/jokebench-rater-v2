@@ -1,0 +1,233 @@
+{
+  "schema_version": 4,
+  "dataset_version": "web-one-liners-20-v1",
+  "rubric_version": "funny-v3",
+  "session_id": "06b26c25-fc73-4f4f-9fd2-8b584262ff4f",
+  "reviewer": "",
+  "created_at": "2026-11-02T20:32:36.401Z",
+  "exported_at": "2026-11-02T20:40:24.628Z",
+  "presentation_order": [
+    "web-002",
+    "web-011",
+    "web-015",
+    "web-017",
+    "web-008",
+    "web-006",
+    "web-012",
+    "web-018",
+    "web-010",
+    "web-013",
+    "web-009",
+    "web-005",
+    "web-003",
+    "web-004",
+    "web-019",
+    "web-007",
+    "web-001",
+    "web-016",
+    "web-020",
+    "web-014"
+  ],
+  "ratings": [
+    {
+      "item_id": "web-002",
+      "author": "Tim Vine",
+      "source_url": "https://www.the-independent.com/arts-entertainment/comedy/news/edinburgh-fringe-25-funniest-jokes-of-alltime-10470605.html",
+      "source_name": "The Independent",
+      "response": "Crime in multi-storey car parks. That is wrong on so many different levels.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:33:35.866Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-011",
+      "author": "Alexei Sayle",
+      "source_url": "https://www.theguardian.com/stage/2017/aug/22/ken-cheng-pound-coin-gag-voted-edinburgh-fringe-funniest-joke",
+      "source_name": "The Guardian",
+      "response": "I’ve given up asking rhetorical questions. What’s the point?",
+      "funny": true,
+      "updated_at": "2026-11-02T20:33:47.416Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-015",
+      "author": "Masai Graham",
+      "source_url": "https://www.theguardian.com/stage/2016/aug/23/masai-graham-organ-donor-funniest-joke-edinburgh-fringe-2016",
+      "source_name": "The Guardian",
+      "response": "My dad has suggested that I register for a donor card. He’s a man after my own heart.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:34:01.199Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-017",
+      "author": "Tim Vine",
+      "source_url": "https://www.irishtimes.com/news/in-praise-of-tim-vine-1.1905605",
+      "source_name": "The Irish Times",
+      "response": "Exit signs? They’re on the way out",
+      "funny": true,
+      "updated_at": "2026-11-02T20:34:10.333Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-008",
+      "author": "Tom Parry",
+      "source_url": "https://www.irishtimes.com/culture/stage/hans-free-phone-pun-named-best-joke-at-edinburgh-fringe-1.2327924",
+      "source_name": "The Irish Times",
+      "response": "Red sky at night. Shepherd’s delight. Blue sky at night. Day",
+      "funny": false,
+      "updated_at": "2026-11-02T20:35:03.814Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-006",
+      "author": "Adam Hess",
+      "source_url": "https://time.com/4009495/edinburgh-fringe-festival/",
+      "source_name": "TIME",
+      "response": "Surely every car is a people carrier?",
+      "funny": false,
+      "updated_at": "2026-11-02T20:35:15.699Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-012",
+      "author": "Tim Vine",
+      "source_url": "https://www.theguardian.com/stage/2017/aug/22/ken-cheng-pound-coin-gag-voted-edinburgh-fringe-funniest-joke",
+      "source_name": "The Guardian",
+      "response": "I went to a Pretenders gig. It was a tribute act.",
+      "funny": false,
+      "updated_at": "2026-11-02T20:35:24.382Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-018",
+      "author": "Tim Vine",
+      "source_url": "https://www.irishtimes.com/news/in-praise-of-tim-vine-1.1905605",
+      "source_name": "The Irish Times",
+      "response": "Black Beauty? Now there’s a dark horse",
+      "funny": false,
+      "updated_at": "2026-11-02T20:35:37.082Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-010",
+      "author": "Frank Lavender",
+      "source_url": "https://www.itv.com/news/central/2023-08-22/zookeeper-pun-named-best-joke-of-the-edinburgh-fringe",
+      "source_name": "ITV News",
+      "response": "How do coeliac Germans greet each other? Gluten tag.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:36:43.768Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-013",
+      "author": "Masai Graham",
+      "source_url": "https://en.wikipedia.org/wiki/Funniest_Joke_of_the_Fringe",
+      "source_name": "Wikipedia — Funniest Joke of the Fringe",
+      "response": "I tried to steal spaghetti from the shop, but the female guard saw me and I couldn't get pasta.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:37:02.131Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-009",
+      "author": "Lorna Rose Treen",
+      "source_url": "https://www.itv.com/news/central/2023-08-22/zookeeper-pun-named-best-joke-of-the-edinburgh-fringe",
+      "source_name": "ITV News",
+      "response": "I started dating a zookeeper – but it turned out he was a cheetah.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:37:12.981Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-005",
+      "author": "Chris Turner",
+      "source_url": "https://www.theguardian.com/stage/article/2024/aug/12/10-funniest-jokes-edinburgh-fringe-2024",
+      "source_name": "The Guardian",
+      "response": "The Romans invented Vaseline. Or was it Ancient Grease?",
+      "funny": true,
+      "updated_at": "2026-11-02T20:37:19.981Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-003",
+      "author": "Nick Helm",
+      "source_url": "https://www.the-independent.com/voices/commentators/nick-helm-it-s-all-in-the-delivery-honest-8063476.html",
+      "source_name": "The Independent — Nick Helm",
+      "response": "I needed a password eight characters long. So I picked Snow White and the Seven Dwarfs.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:37:49.014Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-004",
+      "author": "Rob Auton",
+      "source_url": "https://www.theguardian.com/stage/2025/aug/11/bad-dates-and-bath-bombs-10-of-the-funniest-jokes-from-the-edinburgh-fringe-2025",
+      "source_name": "The Guardian",
+      "response": "Everyone is worried about AI. I’m more concerned with what the other vowels are up to.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:37:56.747Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-019",
+      "author": "Tim Vine",
+      "source_url": "https://www.irishtimes.com/news/in-praise-of-tim-vine-1.1905605",
+      "source_name": "The Irish Times",
+      "response": "Conjunctivitis.com - that’s a site for sore eyes.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:38:04.947Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-007",
+      "author": "Simon Munnery",
+      "source_url": "https://time.com/4009495/edinburgh-fringe-festival/",
+      "source_name": "TIME",
+      "response": "Clowns divorce. Custardy battle",
+      "funny": true,
+      "updated_at": "2026-11-02T20:38:58.879Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-001",
+      "author": "Olaf Falafel",
+      "source_url": "https://www.timeout.com/edinburgh/edinburgh-fringe-best-jokes",
+      "source_name": "Time Out",
+      "response": "I remember thinking, as I taped a piranha to my boomerang, this could come back to bite me",
+      "funny": true,
+      "updated_at": "2026-11-02T20:39:08.562Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-016",
+      "author": "Tim Vine",
+      "source_url": "https://tollbit.radiotimes.com/tv/comedy/tim-vines-joke-about-a-hoover-is-a-winner-at-edinburghs-fringe-festival/",
+      "source_name": "Radio Times",
+      "response": "I’ve decided to sell my Hoover… well, it was just collecting dust",
+      "funny": true,
+      "updated_at": "2026-11-02T20:39:44.030Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-020",
+      "author": "Darren Walsh",
+      "source_url": "https://www.theguardian.com/stage/2015/aug/25/darren-walsh-dave-award-for-joke-of-the-edinburgh-fringe",
+      "source_name": "The Guardian",
+      "response": "I just deleted all the German names off my phone. It’s Hans free.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:39:51.879Z",
+      "complete": true
+    },
+    {
+      "item_id": "web-014",
+      "author": "Ken Cheng",
+      "source_url": "https://www.shortlist.com/news/edinburgh-fringe-2017-funniest-joke-ken-cheng-jokes-funny",
+      "source_name": "ShortList",
+      "response": "I'm not a fan of the new pound coin, but then again, I hate all change.",
+      "funny": true,
+      "updated_at": "2026-11-02T20:40:11.613Z",
+      "complete": true
+    }
+  ]
+}

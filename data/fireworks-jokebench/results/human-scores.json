@@ -1,0 +1,34 @@
+[
+  {
+    "dataset": "web-one-liners-20-v1",
+    "session_id": "06b26c25-fc73-4f4f-9fd2-8b584262ff4f",
+    "funny": 16,
+    "not_funny": 4,
+    "total": 20,
+    "funny_percent": 80
+  },
+  {
+    "dataset": "glm53-personalized-20-v1",
+    "session_id": "411e7992-adc6-40bf-b596-0fa3696e5843",
+    "funny": 15,
+    "not_funny": 5,
+    "total": 20,
+    "funny_percent": 75
+  },
+  {
+    "dataset": "glm53-plain-20-v2",
+    "session_id": "7e6ea3d6-f493-427f-aa66-4969b0793a15",
+    "funny": 10,
+    "not_funny": 10,
+    "total": 20,
+    "funny_percent": 50
+  },
+  {
+    "dataset": "gptoss120b-plain-20-v1",
+    "session_id": "35d6c115-81a5-44e5-a5d6-3e30a098b330",
+    "funny": 9,
+    "not_funny": 11,
+    "total": 20,
+    "funny_percent": 45
+  }
+]

@@ -39,3 +39,7 @@ scripts/generate-glm-v2.sh
 scripts/generate-nemotron-v2.sh
 scripts/generate-deepseek-v2.sh
 ```
+
+## Fireworks datasets and human evaluations
+
+See [the Fireworks JokeBench archive](data/fireworks-jokebench/README.md) for eight 20-item datasets, four verified human rating sessions, exact generation prompts, and comparison charts. These remain separate from the existing OpenRouter rater dataset.

@@ -1,0 +1,7 @@
+{
+  "model": "accounts/fireworks/models/glm-5p3",
+  "system_prompt": "Evaluate the supplied response in its fictional personal context. Decide whether the RESPONSE is intended as a joke, distinguishing literal reporting of an amusing situation from deliberate comic framing. Do not assume a balanced label distribution. Explain any ambiguity. Return only a JSON object with: is_joke (boolean), mechanisms (list of strings, use [\"none\"] if no joke), explanation (brief), scores (object), grounding_issues (list of strings), ambiguity (string).\nScores: funniness 1-5 (your estimate for this audience, not a human fact); coherence 1-5 (sensible context connection, non-jokes can score 5); surprise 1-5 (unexpected understandable turn); personalization 0-2 (0 generic,1 repeats detail,2 meaningfully adapts); grounding 0-2 (0 material invented fact/contradiction,1 minor unsupported detail or ambiguous assertion,2 supported with clearly figurative humor allowed); appropriateness 0-2 (0 violates boundaries,1 questionable,2 fits); freshness 1-5 (perceived lack of cliche, not proof of originality). Mechanism is categorical, not a numeric score. Identify unsupported facts separately from obvious personification and metaphors. Do not invent personal context.",
+  "temperature": 0,
+  "max_tokens": 4096,
+  "notes": "20 seed examples from chat, unvalidated labels. Independent calls, labels and IDs hidden. No fine-tuning. Cached results reused. Attribute ratings are model opinions. Provider default reasoning settings."
+}

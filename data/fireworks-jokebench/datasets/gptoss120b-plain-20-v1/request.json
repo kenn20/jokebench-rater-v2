@@ -1,0 +1,15 @@
+{
+  "model": "accounts/fireworks/models/gpt-oss-120b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Generate exactly 20 standalone one-line jokes, each with a setup and a punchline. Return only JSON in the form {\"jokes\":[{\"text\":\"...\"}]}."
+    }
+  ],
+  "temperature": 0.9,
+  "max_tokens": 12000,
+  "reasoning_effort": "low",
+  "response_format": {
+    "type": "json_object"
+  }
+}
