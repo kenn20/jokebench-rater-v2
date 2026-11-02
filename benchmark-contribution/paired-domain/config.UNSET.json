@@ -1,0 +1,11 @@
+{
+  "benchmark_id": null,
+  "benchmark_revision": null,
+  "regular_checkpoint": null,
+  "frontier_checkpoint": null,
+  "humor_method_id": null,
+  "humor_instruction": null,
+  "settings": null,
+  "scorer": "exact_string_v1",
+  "domain": null
+}

@@ -1,0 +1,17 @@
+{
+  "origin": "Original AI-assisted synthetic development texts and offline scorer authored for owner-directed hackathon preparation, 2026-11-02",
+  "labels": "none",
+  "model_runs": 0,
+  "external_corpus_rows": 0,
+  "heldout_rows": 0,
+  "files": {
+    "classify.py": "a7618ef8365cbfbb6f389c11dfe14ad5d81d1cc780934f4ba54e949c4667c664",
+    "dev-items.json": "e5fb3b24df926ccff11b4e8ed1ec7e42ac8548bc457c54818280d218f2f3a254",
+    "annotation-template.json": "ffd8705a18cc7df9ed473862319a420ace47ee0e155ae38fab0989be6c459682",
+    "dev-annotator-export.csv": "4700347eaa0168df46e646408f0adea0ee0b304e9e8c85fce4640200e5b54cee",
+    "ANNOTATOR-RUBRIC.md": "aeeddfccee548a643b8329452a61d339faedc919ad2fd2b2f4d7de96de317263",
+    "harness.json": "c7c295a13ecbf0205a7dda158aa165fd61ad73af6a0f02d78900f1544edd8a2e",
+    "empty-runs.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "test_classify.py": "8bd4c071960eb98f8f99133977f9fc0fb2192641ca3fee97982ad41484c215ef"
+  }
+}
