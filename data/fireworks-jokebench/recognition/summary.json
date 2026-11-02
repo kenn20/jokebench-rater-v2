@@ -1,0 +1,22 @@
+{
+  "model": "accounts/fireworks/models/glm-5p3",
+  "completed": 20,
+  "valid": 20,
+  "correct": 19,
+  "total": 20,
+  "accuracy": 0.95,
+  "true_positive": 10,
+  "true_negative": 9,
+  "false_positive": 1,
+  "false_negative": 0,
+  "usage": {
+    "prompt_tokens": 6469,
+    "completion_tokens": 40912,
+    "total_tokens": 47381
+  },
+  "cached_input_tokens": 3057,
+  "estimated_cost_usd": 0.18558442,
+  "median_latency_seconds": 23.302999999999997,
+  "cost_source": "https://fireworks.ai/models/fireworks/glm-5p3",
+  "cost_note": "List-price estimate, not verified account billing; includes reasoning in completion tokens."
+}

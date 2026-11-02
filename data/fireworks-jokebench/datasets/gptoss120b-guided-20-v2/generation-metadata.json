@@ -1,0 +1,18 @@
+{
+  "usage": {
+    "prompt_tokens": 1062,
+    "total_tokens": 3539,
+    "completion_tokens": 2477,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1953
+    },
+    "output_tokens_details": {
+      "reasoning_tokens": 1953
+    }
+  },
+  "finish_reason": "stop",
+  "outputs": "Unedited final model outputs; no reasoning traces included."
+}

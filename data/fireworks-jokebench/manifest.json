@@ -1,0 +1,71 @@
+{
+  "datasets": [
+    {
+      "dataset_version": "synthetic-recognition-20-v1",
+      "count": 20,
+      "items": "datasets/synthetic-recognition-20-v1/items.jsonl",
+      "description": "Synthetic recognition seed; 10 jokes and 10 non-jokes",
+      "human_sessions": []
+    },
+    {
+      "dataset_version": "web-one-liners-20-v1",
+      "count": 20,
+      "items": "datasets/web-one-liners-20-v1/items.jsonl",
+      "description": "Published human-joke baseline",
+      "human_sessions": [
+        "06b26c25-fc73-4f4f-9fd2-8b584262ff4f"
+      ]
+    },
+    {
+      "dataset_version": "glm53-personalized-20-v1",
+      "count": 20,
+      "items": "datasets/glm53-personalized-20-v1/items.jsonl",
+      "description": "Preference-guided GLM",
+      "human_sessions": [
+        "411e7992-adc6-40bf-b596-0fa3696e5843"
+      ]
+    },
+    {
+      "dataset_version": "glm53-plain-20-v2",
+      "count": 20,
+      "items": "datasets/glm53-plain-20-v2/items.jsonl",
+      "description": "Minimal-prompt GLM",
+      "human_sessions": [
+        "7e6ea3d6-f493-427f-aa66-4969b0793a15"
+      ]
+    },
+    {
+      "dataset_version": "nemotron-lightning35-personalized-20-v1",
+      "count": 20,
+      "items": "datasets/nemotron-lightning35-personalized-20-v1/items.jsonl",
+      "description": "Preference-guided Nemotron; no human export supplied",
+      "human_sessions": []
+    },
+    {
+      "dataset_version": "gptoss120b-plain-20-v1",
+      "count": 20,
+      "items": "datasets/gptoss120b-plain-20-v1/items.jsonl",
+      "description": "Minimal-prompt GPT-OSS",
+      "human_sessions": [
+        "35d6c115-81a5-44e5-a5d6-3e30a098b330"
+      ]
+    },
+    {
+      "dataset_version": "gptoss120b-guided-20-v2",
+      "count": 20,
+      "items": "datasets/gptoss120b-guided-20-v2/items.jsonl",
+      "description": "Preference-guided GPT-OSS; user skipped round",
+      "human_sessions": []
+    },
+    {
+      "dataset_version": "gptoss120b-punch-20-v3",
+      "count": 20,
+      "items": "datasets/gptoss120b-punch-20-v3/items.jsonl",
+      "description": "Stricter one-sentence GPT-OSS; no human export supplied",
+      "human_sessions": []
+    }
+  ],
+  "duplicate_exports_excluded": [
+    "jokebench-411e7992-adc6-40bf-b596-0fa3696e5843.json"
+  ]
+}
