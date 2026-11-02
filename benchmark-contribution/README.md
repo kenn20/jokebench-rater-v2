@@ -25,7 +25,7 @@ The audit separates explicit timestamped vote records from automatic originality
 - Upstream has no AGENTS.md or license file in the inspected tree. No blanket third-party dataset reuse rights are inferred. Original contribution provenance is separate.
 
 ## Validation and execution boundaries
-Run upstream `npm test` plus the contribution tests. `npm run generate:v2` and the generation shell scripts are not tests: they call a paid-capable external provider and were NOT run. No server, deployment, access change or fork was performed. After the owner reported access granted, the connected identity's push permission was reverified; planned delivery is an isolated branch and draft PR, not a main merge. The integration write request was denied; no remote branch or PR is claimed here. Do not merge or overwrite teammates' paths.
+Run upstream `npm test` plus the contribution tests. `npm run generate:v2` and the generation shell scripts are not tests: they call a paid-capable external provider and were NOT run. No server, deployment or fork was performed. Delivery is verified through the authorized Mac route: draft PR https://github.com/kenn20/jokebench-rater-v2/pull/2, head c960ba93ff91eb07f9f74f8db85de5f290ac7bec, base main ee62cb1d3b7df4c4ab4311fc0b0e411af78e5311. Exactly 22 added files and no deletions; no main merge. Earlier connector write limitations are historical, not a current delivery blocker. Do not merge or overwrite teammates' paths.
 
 Use a fresh heldout version if evaluation items or labels influence tuning. Preserve failed/invalid outputs and missing submissions; keep unknown costs unknown. Report actual model/version, item/config hashes and all intervention latency/cost when runs exist.
 
@@ -36,3 +36,5 @@ Use a fresh heldout version if evaluation items or labels influence tuning. Pres
 The updated upstream Fireworks archive contains separate human sessions and descriptive scores. It is preserved unchanged; these are not runs of this new paired-domain experiment. Its validator passed (8 datasets, 4 unique sessions), without independently verifying the raters or external provider execution.
 
 Primary domains are healthcare and programming, reported separately. Frontier is optional and never controls primary-pair completeness. Benchmark recommendations are not selections or imported corpora.
+
+Factory receipt update only: the PR contains the original validated 22-file snapshot (subtree 8413069fc96d0ef43de41d0ead85ad410031ba20). This later receipt wording has not been pushed to the team branch. No remote status checks or Actions runs were present at verification; pending aggregate with zero checks is not a pass. Models/benchmarks/intervention remain unset and no model benchmark has run.
