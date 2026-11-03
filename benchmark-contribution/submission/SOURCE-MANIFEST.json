@@ -1,0 +1,70 @@
+{
+  "source_repository": "zzfadi/product-factory",
+  "source_branch": "claude/project-thread-qupoae",
+  "source_commit": "3dbbdbb838a9e0e04338828b2e12576829c06c15",
+  "author_record": "Claude; coauthor Claude Opus 5.5; 2026-11-02T23:41:30Z",
+  "identity_limit": "Owner referred to another bot; commit authorship does not independently resolve that nickname.",
+  "source_files": [
+    {
+      "archived_path": "source-pilot/records.jsonl",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/records.jsonl",
+      "git_blob": "f6d2dfd233724d984f9dc29a4a79b6a3a6021d1c",
+      "sha256": "b5c11730d75b44a56630fc8f4bcf2386f33fefe26f0b7811f2685de79f7fe6ec"
+    },
+    {
+      "archived_path": "source-pilot/README.md",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/README.md",
+      "git_blob": "8fb94d49a7d3d7052e864b5b3a33af02a9499530",
+      "sha256": "83720fe5b19e05991ee0206ab278913ef73f294833263d1bd12784d07bc5546b"
+    },
+    {
+      "archived_path": "source-pilot/judgments.jsonl",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/judgments.jsonl",
+      "git_blob": "09ed197659e81d88b32906a28a930586cc082351",
+      "sha256": "9f7677c8ed42c3861c40d4721174a2c65b97ba59df71b11df713ddc70d8b330d"
+    },
+    {
+      "archived_path": "source-pilot/pilot.py.txt",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/pilot.py",
+      "git_blob": "4332079f45e1b82bdebfdcc4b8320ac5655499e4",
+      "sha256": "970ca66e195673bfefd55111d4eb9c7af59b3a034ec872f577fe62921554d3b9"
+    },
+    {
+      "archived_path": "source-pilot/tasks.json",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/tasks.json",
+      "git_blob": "8ea3995a280b5e915709608bbb1b7dd710792a72",
+      "sha256": "63d548919062da069a563fac420ade7504ef249b52eaa8ad2a50d421476dae46"
+    },
+    {
+      "archived_path": "source-pilot/chart.svg",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/chart.svg",
+      "git_blob": "5b42b8d22b802543dfb316db1cc62c742ea51e3b",
+      "sha256": "cf84a18245e8c82b7aaa24a34a2e5fac331b4ad82476d298b2e40470a60caca4"
+    },
+    {
+      "archived_path": "source-pilot/results.json",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/results.json",
+      "git_blob": "c912349fe0263f0d56860b50282f85cfbee59d90",
+      "sha256": "7fc71a568b3b7ea15abcbd053bfdd5934488bafb93c6ff0671e753fe54e9cb47"
+    },
+    {
+      "archived_path": "source-pilot/results-table.md",
+      "source_path": "research/humor-classification/benchmark-contribution/dose-pilot/results-table.md",
+      "git_blob": "50d2f52e68b0e53fcca3a8136972154b99d2772c",
+      "sha256": "54d4955d97fa92d5fbecace18711e32d7efdbb1a7144683f73fd07148b1144b2"
+    }
+  ],
+  "verification": "All archived source bytes match original Git blobs; pilot runner archived as text and not run. Recorded outputs are source evidence, not independent provider verification.",
+  "upstream_licenses": [
+    {
+      "repo": "pubmedqa/pubmedqa",
+      "ref": "1cbae8e92f72f20c8d3747cbb3bf5bc53554d997",
+      "license_blob": "f317bc8e65becf9ae8fd1e5ac61b2a12c5bd4284"
+    },
+    {
+      "repo": "openai/human-eval",
+      "ref": "b9453e8f1865df0a0057a1383767caa400acfbcf",
+      "license_blob": "4f14854c3243516f3de1487a60f14882874d7e3a"
+    }
+  ]
+}

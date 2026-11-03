@@ -1,0 +1,18 @@
+{
+  "status": "offline_tested_not_calibrated_not_run",
+  "tests_passed": 13,
+  "compile_passed": true,
+  "allowlist": [
+    "dose.py",
+    "test_dose.py",
+    "config.UNSET.json",
+    "README.md",
+    "MANIFEST.json"
+  ],
+  "files": {
+    "dose.py": "772a0bf3d230c26b10bf8bb8ceaa38374ecf1c92f4f485421313a9f2a4a4c073",
+    "test_dose.py": "6bfeca26b6830ce14ca6dbb6f237c6c1c475a5c704622e624028433a77406f37",
+    "config.UNSET.json": "e5adcdcd5e91f57bb291b3e3a4d8f9f0aef7211454be2095e61878f4a5912152",
+    "README.md": "39862914cee80fb5393be837d02b089954a57f4e372069a6cfb2ba77a61fb49e"
+  }
+}

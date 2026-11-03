@@ -1,0 +1,182 @@
+[
+  {
+    "item_id": "D01",
+    "text": "My project plan has a contingency plan. Neither has met the project.",
+    "split": "dev",
+    "cluster_id": "F01",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D02",
+    "text": "The project plan includes a separate section for possible delays.",
+    "split": "dev",
+    "cluster_id": "F01",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D03",
+    "text": "Our loading spinner won employee of the month. It has been visibly working since Tuesday.",
+    "split": "dev",
+    "cluster_id": "F02",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D04",
+    "text": "The application displays a loading indicator while it retrieves the requested file.",
+    "split": "dev",
+    "cluster_id": "F02",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D05",
+    "text": "I made a schedule for being spontaneous. Naturally, I am already behind.",
+    "split": "dev",
+    "cluster_id": "F03",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D06",
+    "text": "I reserved an hour on Saturday for an activity I have not selected yet.",
+    "split": "dev",
+    "cluster_id": "F03",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D07",
+    "text": "The recipe said to let the dough rest, so I stopped asking it about its career plans.",
+    "split": "dev",
+    "cluster_id": "F04",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D08",
+    "text": "Leave the dough covered on the counter for the interval specified in the recipe.",
+    "split": "dev",
+    "cluster_id": "F04",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D09",
+    "text": "My laundry basket asked for a promotion. Apparently it has been managing a growing team.",
+    "split": "dev",
+    "cluster_id": "F05",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D10",
+    "text": "The laundry basket is full, and there are additional clothes beside it.",
+    "split": "dev",
+    "cluster_id": "F05",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D11",
+    "text": "The orchestra librarian filed a complaint. Too many notes, not enough notice.",
+    "split": "dev",
+    "cluster_id": "F06",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D12",
+    "text": "The orchestra librarian distributed the updated sheet music before rehearsal.",
+    "split": "dev",
+    "cluster_id": "F06",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D13",
+    "text": "The meeting to simplify our process now has three preparation meetings.",
+    "split": "dev",
+    "cluster_id": "F07",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D14",
+    "text": "Three preparation meetings are scheduled before the process review.",
+    "split": "dev",
+    "cluster_id": "F07",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D15",
+    "text": "I bought a tiny plant for my desk. It has already requested a window office and a watering assistant.",
+    "split": "dev",
+    "cluster_id": "F08",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D16",
+    "text": "A small potted plant sits on the desk near the window.",
+    "split": "dev",
+    "cluster_id": "F08",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D17",
+    "text": "I finally solved the mystery of the disappearing biscuits. The solution was eating the last one.",
+    "split": "dev",
+    "cluster_id": "F09",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D18",
+    "text": "The biscuit container is empty because all the biscuits have been eaten.",
+    "split": "dev",
+    "cluster_id": "F09",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D19",
+    "text": "My first attempt at origami is going well. The paper is now less flat.",
+    "split": "dev",
+    "cluster_id": "F10",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  },
+  {
+    "item_id": "D20",
+    "text": "The folded paper has several creases across its center.",
+    "split": "dev",
+    "cluster_id": "F10",
+    "provenance": "Assistant-authored synthetic candidate; no corpus text imported; independent human funniness unknown. Original composition is not a guarantee no similar phrase exists elsewhere.",
+    "source": "synthetic_original",
+    "created_at_utc": "2026-11-02T21:05:00Z"
+  }
+]

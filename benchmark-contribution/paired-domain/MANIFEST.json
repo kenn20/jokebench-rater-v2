@@ -1,0 +1,22 @@
+{
+  "status": "paired_same_model_offline_scaffold_tested_not_model_run",
+  "tests_passed": 19,
+  "compile_passed": true,
+  "files": {
+    "experiment.py": "e8cadb3d0573a039600e01718a912d3a7a97ca9209401c4dfdb8c2ec49c5b6b6",
+    "test_experiment.py": "914cbe0b6899e3923a1ea3a604ffe28cde9d565b208eed940b53fdba9a71ab59",
+    "config.UNSET.json": "0262cf2623ec6d8c270d21b10d443d46f0e716794dbb8876f3fa518897cd25b7",
+    "empty-records.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "README.md": "753ad905b41817d71229f834efd9f4edd7d64fddb1642595b448fc82ece2cc4b",
+    "BENCHMARK-OPTIONS.md": "5ab75de901415c3393c58b7b1890cf41f3370327a929c622b2439531e488a24b"
+  },
+  "integration_allowlist": [
+    "experiment.py",
+    "test_experiment.py",
+    "config.UNSET.json",
+    "empty-records.json",
+    "README.md",
+    "BENCHMARK-OPTIONS.md",
+    "MANIFEST.json"
+  ]
+}

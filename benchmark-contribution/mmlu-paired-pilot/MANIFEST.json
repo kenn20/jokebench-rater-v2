@@ -1,0 +1,18 @@
+{
+  "status": "adapter_tested_data_retrieval_denied_no_model_runs",
+  "tests_passed": 7,
+  "allowlist": [
+    "pilot.py",
+    "test_pilot.py",
+    "README.md",
+    "LICENSE-MMLU.txt",
+    "MANIFEST.json"
+  ],
+  "files": {
+    "pilot.py": "a4395286ee36b28d0be213529d5de1d2c4d819e51fc65215fdf9df71e07fbe24",
+    "test_pilot.py": "9adab02c3c1ec2c088913a9409e29599c1de20b80555098e9a6b2920ba098bed",
+    "README.md": "ec0e6a878f0351783e69d6abadce2204ee231735f72c125350df9a466929dc61",
+    "LICENSE-MMLU.txt": "5d841b9eee8bf0d721359b79fbae956a8b426d3139bfefee32149c7d4f2a1a9c"
+  },
+  "integration_note": "License trailing blank line normalized only; notice unchanged."
+}
